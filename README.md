@@ -25,11 +25,11 @@ Built using **React.js**, this app emphasizes smooth transitions and responsive 
 
 - **React.js**: Frontend framework for building the UI and managing state.
   
-- **HTML5**: Structure and markup of the app.
+- **HTML**: Structure and markup of the app.
   
-- **CSS3**: Styling the layout and appearance of the app.
+- **CSS**: Styling the layout and appearance of the app.
   
-- **JavaScript (ES6+)**: Application logic and interactivity.
+- **JavaScript**: Application logic and interactivity.
   
 - **Tailwind CSS**: Utility-first CSS framework for styling and layout.
   
